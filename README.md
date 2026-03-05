@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Kumar</h1>
-<p A Computer Science undergraduate from India/> </p>
+<p "A Computer Science undergraduate from India"/> </p>
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank5o4&label=Profile%20views&color=0e75b6&style=flat" alt="mayank5o4" /> </p>
